@@ -14,4 +14,4 @@ However, while setting up the `Prisma Client`, I encountered an import error. Ev
 
 Throughtout the process of debugging i just refered docs and docs and docs ..... (garnished with copilot 😅)
 
-
+4. This is something i enjoyed doing (`using clerk`) , so for  i set up the clerk , used `shadcn` to build the signup component and the experience building this is pretty smooth , i need to look into more about using `sign up webhooks` docs by clerk and set up the verification of email as well , the approach was setting up the asynchronous logic first and then building the ui part (atleast how i like to build) so declared all the variables -> designed the function -> then built the ui 😊
